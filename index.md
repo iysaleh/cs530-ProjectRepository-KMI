@@ -7,9 +7,9 @@ This research is being done by Karan Kohli, Michael Mar and Ibraheem Saleh
 ### Finished Project Links
 * * *
 
-[Reasearch Paper]()
+[Reasearch Paper](https://github.com/iysaleh/cs530-ProjectRepository-KMI/blob/master/ADeepInspectionofHigh-PerformanceBandwidthSchedulingAlgorithmComplexityandDesign_Kohli_Mar_Saleh.docx?raw=true)
 
-[Research Presentation]()
+[Research Presentation](https://github.com/iysaleh/cs530-ProjectRepository-KMI/blob/master/ADeepInspectionofHigh-PerformanceBandwidthSchedulingAlgorithmComplexityandDesign.pptx?raw=true)
 
 ### Authors & Contact
 * * *
